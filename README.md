@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ottava Surgical Robot](https://www.massdevice.com/johnson-johnson-medtech-stay-tuned-for-ottava-next-gen-surgical-robot/)
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
