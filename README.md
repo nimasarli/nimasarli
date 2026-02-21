@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimasarli&label=Profile%20views&color=0e75b6&style=flat" alt="nimasarli" /> </p>
 
-- 🔭 I’m currently working on [Ottava Surgical Robot](https://www.massdevice.com/johnson-johnson-medtech-stay-tuned-for-ottava-next-gen-surgical-robot/)
+- 🔭 I’m currently working as Planning & Control Software Engineer at [Zoox](https://www.zoox.com/)
 
-- 🌱 I’m currently learning **AI / Machine Learning**
+- 🌱 I’m currently learning **AI / ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
