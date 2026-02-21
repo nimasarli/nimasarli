@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimasarli&label=Profile%20views&color=0e75b6&style=flat" alt="nimasarli" /> </p>
 
-- 🔭 I’m currently working as Planning & Control Software Engineer at [Zoox](https://www.zoox.com/)
+- 🔭 I’m currently working as a planning & control software engineer at [Zoox](https://www.zoox.com/)
 
 - 🌱 I’m currently learning **AI / ML**
 
